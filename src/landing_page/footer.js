@@ -11,35 +11,35 @@ All rights reserved.</p>
             </div>
             <div className='col'>
                 <p>Company</p>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>About</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Philosophy</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Press & media</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Careers</a><br></br>
-<a src=' '  className='text-muted'style={{textDecoration:"none"}}>Zerodha Cares (CSR)</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Open source</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>About</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Philosophy</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Press & media</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Careers</a><br></br>
+<a href=' '  className='text-muted'style={{textDecoration:"none"}}>Zerodha Cares (CSR)</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Zerodha.tech</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Open source</a><br></br>
             </div>
             <div className='col'>
                 <p>Support</p>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Contact us</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>How to file a complaint?</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Status of your complaints</a><br></br>
-<a src=' '  className='text-muted'style={{textDecoration:"none"}}>Bulletin</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Circular</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br></br>
-<a src=' ' className='text-muted' style={{textDecoration:"none"}}>Downloads</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Contact us</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Support portal</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>How to file a complaint?</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Status of your complaints</a><br></br>
+<a href=' '  className='text-muted'style={{textDecoration:"none"}}>Bulletin</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Circular</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Z-Connect blog</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Downloads</a><br></br>
             </div>
             <div className='col'>
                 <p>Account</p>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Open demat account</a> <br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Minor demat account</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>NRI demat account</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Commodity</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Dematerialisation</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Fund transfer</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>MTF</a><br></br>
-<a src='' className='text-muted' style={{textDecoration:"none"}}>Referral program</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Open demat account</a> <br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Minor demat account</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>NRI demat account</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Commodity</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Dematerialisation</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Fund transfer</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>MTF</a><br></br>
+<a href=' ' className='text-muted' style={{textDecoration:"none"}}>Referral program</a><br></br>
             </div>
         </div>
         <div className='mt-5 text-small text-muted' style={{fontSize:'14px'}}>
