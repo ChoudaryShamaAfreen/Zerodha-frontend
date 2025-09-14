@@ -1,0 +1,90 @@
+/* Auth.css - shared between Signup & Login */
+
+/* Container center */
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f7f9fb;
+  padding: 20px;
+}
+
+/* Card box */
+.auth-card {
+  background: #fff;
+  padding: 36px 36px;
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.06);
+  width: 360px;
+  max-width: 100%;
+  text-align: center;
+}
+
+.auth-card h2 {
+  margin-bottom: 6px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.auth-card .subtitle {
+  font-size: 13px;
+  color: #6b7280;
+  margin-bottom: 18px;
+}
+
+/* Inputs */
+.auth-card input {
+  width: 100%;
+  padding: 12px 14px;
+  margin: 10px 0;
+  border: 1px solid #e6e9ee;
+  border-radius: 6px;
+  font-size: 14px;
+  outline: none;
+  transition: border 0.18s, box-shadow 0.18s;
+}
+
+.auth-card input:focus {
+  border-color: #2874f0; /* Zerodha-like blue */
+  box-shadow: 0 0 0 3px rgba(40, 116, 240, 0.06);
+}
+
+/* Button */
+.auth-card button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  background: linear-gradient(180deg, #2b79f5 0%, #2563eb 100%);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.auth-card button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.12);
+}
+
+/* Footer text */
+.auth-card .signup-text,
+.auth-card .login-text {
+  margin-top: 14px;
+  font-size: 14px;
+  color: #6b7280;
+}
+
+.auth-card a {
+  color: #2874f0;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.auth-card a:hover {
+  text-decoration: underline;
+}

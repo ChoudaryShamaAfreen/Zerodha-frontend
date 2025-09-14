@@ -5,6 +5,7 @@ import './index.css';
 import HomePage from './landing_page/home/Homepage';
 import AboutPage from './landing_page/about/AboutPage';
 import Signup from './landing_page/signup/Signup';
+import Login from './landing_page/login/Login';
 import PricingPage from './landing_page/pricing/PricingPage';
 import ProductPage from './landing_page/products/ProductPage';
 import SupportPage from './landing_page/support/SupportPage';
@@ -23,9 +24,11 @@ root.render(
   <Route path="/pricing" element={<PricingPage/>}></Route>
   <Route path="/product" element={<ProductPage/>}></Route>
   <Route path='/support' element={<SupportPage/>}></Route>
+  <Route path="/login" element={<Login />} />
   <Route path='/*' element={<NotFound/>}></Route>
  </Routes>
  <Footer/>
  </BrowserRouter>
 );
+
 

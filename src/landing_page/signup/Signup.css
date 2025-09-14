@@ -1,0 +1,82 @@
+/* Container center */
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #f7f9fb;
+}
+
+/* Card box */
+.signup-card {
+  background: #fff;
+  padding: 40px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  text-align: center;
+}
+
+.signup-card h2 {
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.signup-card .subtitle {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+/* Input fields */
+.signup-card input {
+  width: 100%;
+  padding: 12px 14px;
+  margin: 10px 0;
+  border: 1px solid #dcdcdc;
+  border-radius: 4px;
+  font-size: 14px;
+  outline: none;
+  transition: border 0.2s;
+}
+
+.signup-card input:focus {
+  border-color: #2874f0; /* Zerodha blue */
+}
+
+/* Button */
+.signup-card button {
+  width: 100%;
+  padding: 12px;
+  background: #2874f0;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background 0.3s;
+}
+
+.signup-card button:hover {
+  background: #1a5bb8;
+}
+
+/* Login text */
+.signup-card .login-text {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.signup-card .login-text a {
+  color: #2874f0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.signup-card .login-text a:hover {
+  text-decoration: underline;
+}
