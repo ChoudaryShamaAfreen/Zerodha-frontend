@@ -78,7 +78,7 @@ const Login = () => {
         alert("Login successful!");
         localStorage.setItem("token", data.token); // store token
         // redirect to deployed dashboard
-        window.location.href = "https://68c64d5e71f9c366db2f85d0--comfy-centaur-17c9d0.netlify.app";
+        window.location.href = "https://comfy-centaur-17c9d0.netlify.app";
       } else {
         alert(data.message || data.error || "Login failed");
       }
